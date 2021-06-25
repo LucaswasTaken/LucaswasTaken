@@ -10,7 +10,7 @@
 ## 🙂 I’m currently
   - <a style="max-width: 181px;" href="https://www.handtalk.me/br">
     <img class="avatar mr-1" alt="" height="20" width="20" src="https://avatars.githubusercontent.com/u/23121478?s=60&amp;v=4">
-    Senir Data Scientist
+    Senior Data Scientist
     </a>
 
     
