@@ -8,7 +8,7 @@
 </a>
 
 ## 🙂 I’m currently
-- <a style="max-width: 181px;"href="https://ds4data.com/">
+- <a style="max-width: 181px;" href="https://ds4data.com/">
     Nvidia Ambassador, HPC Specialist at LCCV and Chief Scientific Officer of DS4
     </a>
 
