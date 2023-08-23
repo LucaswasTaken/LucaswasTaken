@@ -5,7 +5,7 @@
 
 ## 🙂 I’m currently
 - <a style="max-width: 181px;" href="https://ds4data.com/">
-    Nvidia Ambassador, HPC Specialist at LCCV and Chief Scientific Officer of DS4
+    Nvidia Ambassador, MLOps Specialist at CombatIQ, HPC Specialist at LCCV and Chief Scientific Officer of DS4
     </a>
 
     
